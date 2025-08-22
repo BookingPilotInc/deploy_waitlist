@@ -6,7 +6,7 @@ export const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <span className="text-xl font-bold">BookingPilot&trade</span>
+              <span className="text-xl font-bold">BookingPilot™</span>
             </div>
             <p className="text-muted-foreground max-w-sm">
               Revolutionizing appointment scheduling with intelligent conversational AI 
@@ -40,7 +40,7 @@ export const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-border/50 text-center text-sm text-muted-foreground">
-          <p>&copy; © 2025 BookingPilot&trade Inc. We’ve got everything covered – all rights reserved.</p>
+          <p>&copy; © 2025 BookingPilot™ Inc. We’ve got everything covered – all rights reserved.</p>
         </div>
       </div>
     </footer>
